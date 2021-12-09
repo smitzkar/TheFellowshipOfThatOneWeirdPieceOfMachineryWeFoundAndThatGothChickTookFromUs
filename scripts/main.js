@@ -1,4 +1,4 @@
-var list = document.getElementById('demo');
+/* var list = document.getElementById('demo');
 
 function changeText2() {
     var firstname = document.getElementById('firstname').value;
@@ -6,4 +6,4 @@ function changeText2() {
     var entry = document.createElement('li');
     entry.appendChild(document.createTextNode(firstname));
     list.appendChild(entry);
-}
+}*/
